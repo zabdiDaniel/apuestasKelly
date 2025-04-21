@@ -109,7 +109,7 @@ def index():
                     </div>
                     <div class="mb-3">
                         <label for="precision" class="form-label">Precisión (0-1):</label>
-                        <input type="number" step="0.01" class="form-control" id="precision" name="precision" value="0.91" required>
+                        <input type="number" step="0.01" class="form-control" id="precision" name="precision" value="0.90" required>
                     </div>
                     <button type="submit" class="btn btn-primary w-100">Calcular Apuesta</button>
                 </form>
